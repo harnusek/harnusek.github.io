@@ -9,10 +9,10 @@ redirect_from:
 ---
 
 ## Education
-#### 2015 – present:    **FACULTY OF INFORMATICS AND INFORMATION TECHNOLOGIES SLOVAK UNIVERSITY OF TECHNOLOGY**
+#### 2015 – present:    FACULTY OF INFORMATICS AND INFORMATION TECHNOLOGIES SLOVAK UNIVERSITY OF TECHNOLOGY
   * Bratislava, Slovakia
   * Study programme: Informatics
-#### 2011 – 2015:   **SECONDARY GRAMMAR SCHOOL OF LADISLAV NOVOMESKÝ**
+#### 2011 – 2015:   SECONDARY GRAMMAR SCHOOL OF LADISLAV NOVOMESKÝ
   * Senica, Slovakia
   * Specialization in Natural science      
   
