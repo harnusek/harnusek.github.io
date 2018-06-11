@@ -7,38 +7,38 @@ redirect_from:
   - /projects.html
 ---
 
-# 2018
-  ## [DBS] Database application
+## 2018
+  ### [DBS] Database application
   * `Java`, `PostgreSQL`
   * See on Github: [Cleaning_service](https://github.com/fiit-dbs-2018/dbs2018-project-harnusek)
 
 
 
-# 2017
-  ## [DSA] Implementation of Dijkstra's algorithm and heap
+## 2017
+  ### [DSA] Implementation of Dijkstra's algorithm and heap
   * `C`  
-  ## [DSA] Implementation of hash-table and AVL-tree
+  ### [DSA] Implementation of hash-table and AVL-tree
   * `C`  
-  ## [DSA] Memory manager
+  ### [DSA] Memory manager
   * `C`
-  ## [MSOFT] Modeling of application Team manager
+  ### [MSOFT] Modeling of application Team manager
   * `Java`, `Enterprise Architect`
-  ## [PARALPR] Parallel implementation of image convolution filter
+  ### [PARALPR] Parallel implementation of image convolution filter
   * `C`, `OpenMP`, `MPI`
-  ## [PPGSO] Arkanoid game 
+  ### [PPGSO] Arkanoid game 
   * `C++`,`OpenGL`
 
-  ## [AZA] 
+  ### [AZA] 
   * `C`
-  ## [PSI] 
-  ## [UI] Production rule system
+  ### [PSI] 
+  ### [UI] Production rule system
   * `Java`
   * See [documentation_SK](https://harnusek.github.io/files/production-rule-system.pdf)
-  ## [VAVA] 
+  ### [VAVA] 
   * `Java`
 
-# 2016
-  ## [PKS] 
+## 2016
+  ### [PKS] 
   * `Java`
-  ## [OOP] 
+  ### [OOP] 
   * `Java`
