@@ -15,4 +15,4 @@ redirect_from:
 
 ## Rule production system
 * Java
-* See [documentation](https://harnusek.github.io/files/rule_production_system.pdf)
+* See [documentation_SK](https://harnusek.github.io/files/production-rule-system.pdf)
