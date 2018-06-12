@@ -14,7 +14,7 @@ description              : &description "=student*programmer+floydian"
 url                      : https://harnusek.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "harnusek/harnusek.github.io"
-teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
+teaser                   :  "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
 read_more                : "disabled" # if enabled, adds "Read more" links to excerpts
@@ -82,7 +82,7 @@ author:
   avatar           : "profile.gif"
   bio              : "=student*programmer+floydian"
   location         : "Slovakia"
-  employer         : "FIIT SUT BA"
+  employer         :
   googlescholar    :
   email            : "ondrej[DOT]harnusek[at]gmail[DOT]com"
   uri              :
