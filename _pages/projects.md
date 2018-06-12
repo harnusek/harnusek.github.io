@@ -11,8 +11,12 @@ redirect_from:
 
 ### [DBS] Database application
 * `Java`, `PostgreSQL`
-* See on Github: [Cleaning_service](https://github.com/fiit-dbs-2018/dbs2018-project-harnusek)
+* See [data_report_SK](https://harnusek.github.io/files/dbs_report.pdf)
+* See [documentation_SK](https://harnusek.github.io/files/dbs_final.pdf)
 
+### [PIS] Eshop with SOA architecture
+* `WS`, `IBM Process Designer`, `XML`
+* See [description_SK](https://harnusek.github.io/files/pis.pdf)
 
 ## 2017
 
@@ -29,7 +33,7 @@ redirect_from:
 * See [documentation_SK](https://harnusek.github.io/files/dsa1.pdf)
 
 ### [MSOFT] Modeling of application Team manager
-* `Java`, `Enterprise Architect`
+* `Java`, `Enterprise Architect`, `UML`
 * See [documentation_SK](https://harnusek.github.io/files/msoft.pdf)
 
 ### [PARALPR] Parallel convolution filter
@@ -39,10 +43,8 @@ redirect_from:
 ### [PPGSO] Arkanoid game 
 * `C++`,`OpenGL`
 
-### [AZA] Implementation of Kruskal algorithm
-* `C`
-
 ### [PSI] Modeling IS for hospital
+* `Enterprise Architect`, `UML`
 * See [documentation_SK](https://harnusek.github.io/files/psi.pdf)
 
 ### [UI] Production rule system
@@ -69,3 +71,22 @@ redirect_from:
 ### [OOP] IS for forrest landowners association
 * `Java`
 * See [documentation_SK](https://harnusek.github.io/files/oop.pdf)
+
+## 2015
+
+### [PPI] Task in assembly language
+* `mipsim`
+* See [documentation_SK](https://harnusek.github.io/files/ppi5.pdf)
+
+### [PPI] Task in assembly language
+* `rexim`
+* See [documentation_SK](https://harnusek.github.io/files/ppi4.pdf)
+
+### [PPI] Synthesis of sequential logic circuits
+* See [documentation_SK](https://harnusek.github.io/files/ppi3.pdf)
+
+### [PPI] Synthesis of combinational logic circuits
+* See [documentation_SK](https://harnusek.github.io/files/ppi2.pdf)
+
+### [PPI] Analysis of combinational circuits
+* See [documentation_EN](https://harnusek.github.io/files/ppi1.pdf)
