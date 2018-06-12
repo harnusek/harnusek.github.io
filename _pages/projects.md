@@ -1,6 +1,6 @@
 ---
 permalink: /projects/
-title: "School projects"
+title: "School Projects"
 author_profile: true
 redirect_from: 
   - /md/
