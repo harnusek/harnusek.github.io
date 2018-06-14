@@ -35,6 +35,7 @@ redirect_from:
 ### [MSOFT] Modeling of application Team manager
 * `Java`, `Enterprise Architect`, `UML`
 * See [documentation_SK](https://harnusek.github.io/files/msoft.pdf)
+* See [javaDoc](https://harnusek.github.io/files/team_manager/index.html)
 
 ### [PARALPR] Parallel convolution filter
 * `C`, `OpenMP`, `MPI`
@@ -54,7 +55,6 @@ redirect_from:
 ### [UI] Genetic algorithm
 * `Java`
 * See [documentation_SK](https://harnusek.github.io/files/ui3.pdf)
-* See [javaDoc](https://harnusek.github.io/files/team_manager/index.html)
 
 ### [UI] Searching in state space
 * `Java`
