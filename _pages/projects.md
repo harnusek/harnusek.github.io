@@ -59,8 +59,9 @@ redirect_from:
 * `Java`
 * See [documentation_SK](https://harnusek.github.io/files/ui2.pdf)
 
-### [VAVA] Client-server aplication
-* `Java`, `JPQL` 
+### [VAVA] System of public shared libraries
+* `Java`, `EJB`, `Google Maps API`, `Swing`, `JBoss Application Server`
+* Multilayer application, Log, Multilanguange, Configuration
 
 ## 2016
 
