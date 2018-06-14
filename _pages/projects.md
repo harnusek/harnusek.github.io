@@ -54,6 +54,7 @@ redirect_from:
 ### [UI] Genetic algorithm
 * `Java`
 * See [documentation_SK](https://harnusek.github.io/files/ui3.pdf)
+* See [javaDoc](https://harnusek.github.io/files/team_manager/index.html)
 
 ### [UI] Searching in state space
 * `Java`
