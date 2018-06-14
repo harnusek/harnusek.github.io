@@ -62,7 +62,7 @@ redirect_from:
 ### [VAVA] System of public shared libraries
 * `Java`, `EJB`, `Google Maps API`, `Swing`, `JBoss Application Server`
 * Multilayer application, Log, Multilanguange, Configuration
-* See [javaDoc](https://harnusek.github.io/projects/librario/index.html)
+* See [javaDoc](https://harnusek.github.io/files/librario/index.html)
 
 ## 2016
 
