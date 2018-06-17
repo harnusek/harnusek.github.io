@@ -61,7 +61,7 @@ redirect_from:
 * See [documentation_SK](https://harnusek.github.io/files/ui2.pdf)
 
 ### [VAVA] System of public shared libraries
-* `Java`, `EJB`, `Google Maps API`, `Swing`, `JBoss Application Server`
+* `Java`, `EJB`, `Google Maps API`, `Swing`, `WildFly Application Server`
 * Multilayer application, Log, Multilanguange, Configuration
 * See [javaDoc](https://harnusek.github.io/files/librario/index.html)
 
