@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "harnusek;"
 title_separator          : "-"
 name                     : &name "Ondrej Harnúšek"
-description              : &description "=student*programmer+floydian"
+description              : &description "=student*developer+floydian"
 url                      : https://harnusek.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "harnusek/harnusek.github.io"
@@ -80,11 +80,11 @@ analytics:
 author:
   name             : "Ondrej Harnúšek"
   avatar           : "profile.gif"
-  bio              : "=student*programmer+floydian"
+  bio              : "=student*developer+floydian"
   location         : "Slovakia"
   employer         :
   googlescholar    :
-  email            : "ondrej[DOT]harnusek[at]gmail[DOT]com"
+  email            : "ondrej[DOT]harnusek[AT]gmail[DOT]com"
   uri              :
   bitbucket        :
   codepen          :
@@ -101,7 +101,7 @@ author:
   orcid            :
   pinterest        :
   soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
+  stackoverflow    : https://stackoverflow.com/users/7872895/harnusek
   steam            :
   tumblr           :
   twitter          : "harnusek"
