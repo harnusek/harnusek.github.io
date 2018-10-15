@@ -1,1 +1,0 @@
-![](http://harnusek.github.io/martina/doge.jpg)
