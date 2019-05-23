@@ -6,6 +6,17 @@ redirect_from:
   - /md/
   - /projects.html
 ---
+## 2019
+
+### [BP] Tool for determining similarity of texts
+* `Python`, `Flask`, `swagger`, `pandas`, `Word2Vec`, `synonym-dictionary`
+* See [web application](https://harnusek.herokuapp.com/)
+
+### [IAU] Forecasting thyroid disease
+* `Python`, `Jupiter`, `numpy`, `pandas`, `matplotlib`, `scikit-learn`
+* exploratory analysis
+* preprocessing
+* machine learning (CART)
 
 ## 2018
 
