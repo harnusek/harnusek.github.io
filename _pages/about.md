@@ -20,8 +20,8 @@ redirect_from:
 ## Skills
 * Language: Native Slovak, conversant in English, basic Russian 
 * Technical:
-  * Advanced in Java, C, SQL(PostgreSQL), UML modeling, EA, IBM Process Designer
-  * Reasonable command of Git, Python, MS Office suite, Unix
+  * Advanced in Java, C, Python, SQL(PostgreSQL), UML modeling, Git
+  * Reasonable command of Docker, Jenkins, CouchDB, Unix, MS Office suite
   * Basics in C++, HTML
 * Driving license: B
 
