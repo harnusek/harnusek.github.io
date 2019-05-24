@@ -11,7 +11,7 @@ redirect_from:
 ### [BP] Tool for determining similarity of texts
 * `Python`, `Flask`, `swagger`, `pandas`, `Word2Vec`, `synonym-dictionary`
 * See [central register of final works](https://opac.crzp.sk/?fn=detailBiblioForm&sid=1D69B1A76ABEB527B96BDB387708)
-* See [web application](https://harnusek.herokuapp.com/)
+* See [DEMO web application](https://harnusek.herokuapp.com/)
 
 ### [IAU] Forecasting thyroid disease
 * `Python`, `Jupiter`, `numpy`, `pandas`, `matplotlib`, `scikit-learn`
