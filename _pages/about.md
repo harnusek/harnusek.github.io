@@ -9,9 +9,14 @@ redirect_from:
 ---
 
 ## Education
+#### 2019 - present:    FACULTY OF INFORMATICS AND INFORMATION TECHNOLOGIES SLOVAK UNIVERSITY OF TECHNOLOGY
+  * Bratislava, Slovakia
+  * Field of study: Software Engineering, Artificial Intelligence
+  * Diploma thesis: None
+  
 #### 2015 – 2019:    FACULTY OF INFORMATICS AND INFORMATION TECHNOLOGIES SLOVAK UNIVERSITY OF TECHNOLOGY
   * Bratislava, Slovakia
-  * Study programme: Informatics
+  * Field of study: Informatics
   * Bachelor thesis: Tool for determining similarity of texts
   
 #### 2011 – 2015:   SECONDARY GRAMMAR SCHOOL OF LADISLAV NOVOMESKÝ
